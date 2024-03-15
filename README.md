@@ -2,6 +2,8 @@
 
 Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este projeto com o propósito acadêmico de complementar e aprimorar nossa capacidade analítica e logística, envolvendo a prática da interdisciplinaridade. O Projeto é baseado na metodologia ágil SCRUM, buscando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
+
+
 # Índice
 
 * [Projeto](#projeto-template)
@@ -35,11 +37,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+
+ <div>
+  <img align="center" alt="jira" heigh="50" width="160" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png"> 
   
- ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+  <img align="center" alt="github" heigh="40" width="140" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"> 
+  
+  <img align="center" alt="github" heigh="40" width="140" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png"> 
+
+  <img align="center" alt="github" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
+  
+  <img align="center" alt="sql" heigh="50" width="160" src="h
+  
+
+ </div>
+  
+
 
 # Sprints
 
