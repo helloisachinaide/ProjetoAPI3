@@ -47,7 +47,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
   <img align="center" alt="github" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
   
-  <img align="center" alt="sql" heigh="50" width="160" src="h
+  <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/a2054094cd2b5602e88d2a4cca27aba7a11ab1d7/.img/Mysql_logo.png"> 
   
 
  </div>
