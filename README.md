@@ -28,11 +28,11 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 |  Team Member  | Matheus Belônia                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vitor-c1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CaioVitorDias1)        |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
+Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
+* Aplicar do método de transportes para otimização da distribuição;
+* Organizar e estruturar as informações do banco de dados;
+* Identificar os custos por KM de cada rota;
+* Identificar os custos por unidade transportada de cada rota ;
 * Desenvolver habilidades técnicas.
 
 ## Tecnologias Utilizadas
