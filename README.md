@@ -29,11 +29,11 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
-* Aplicar do método de transportes para otimização da distribuição;
 * Organizar e estruturar os dados;
+* Aplicar do método de transportes para otimização da distribuição;
 * Identificar os custos por KM de cada rota;
 * Identificar os custos por unidade transportada de cada rota ;
-* Desenvolver habilidades técnicas.
+* Desenvolver habilidades técnicas das tecnologias utilizadas
 
 ## Tecnologias Utilizadas
 
@@ -43,9 +43,9 @@ Este projeto tem como objetivo analisar a produtividade de veículos e otimizar 
   
   <img align="center" alt="github" heigh="40" width="140" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"> 
   
-  <img align="center" alt="github" heigh="40" width="140" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png"> 
+  <img align="center" alt="powerbi" heigh="40" width="140" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png"> 
 
-  <img align="center" alt="github" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
+  <img align="center" alt="python" heigh="50" width="160" src="https://miro.medium.com/v2/resize:fit:1400/1*ycIMlwgwicqlO6PcFRA-Iw.png"> 
   
   <img align="center" alt="sql" heigh="50" width="160" src="https://github.com/helloisachinaide/ProjetoAPI3/blob/a2054094cd2b5602e88d2a4cca27aba7a11ab1d7/.img/Mysql_logo.png"> 
   
