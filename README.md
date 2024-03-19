@@ -30,7 +30,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
 * Aplicar do método de transportes para otimização da distribuição;
-* Organizar e estruturar as informações do banco de dados;
+* Organizar e estruturar os dados;
 * Identificar os custos por KM de cada rota;
 * Identificar os custos por unidade transportada de cada rota ;
 * Desenvolver habilidades técnicas.
