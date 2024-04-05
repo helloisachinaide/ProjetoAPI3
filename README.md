@@ -68,11 +68,11 @@ Sprint | Previsão | Status| Histórico|
 # Requisitos
 
 Requisitos funcionais 
-- Conteúdo da apresentação   
+- Desenvolvimento de estrutura relacional de dados em SQL
+- Criação de um dashboard para visualização dos dados apresentados
+- Documentação no Github e gestão de projetos desenvolvido no Jira Software
 - Relatórios 
-- Experiência do usuário ao oferecer algo mais (UX)
 
-  
 Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
