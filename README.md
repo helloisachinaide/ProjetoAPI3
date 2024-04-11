@@ -16,7 +16,7 @@ Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este
 
 
 # Projeto (API) 
-O nosso parceiro acadêmico solicitou a equipe que identificasse a produtividade dos veículos de cada rota de uma empresa embarcadora de carga do ano de 2023, levando em consideração que ela trabalha com um limite de 2 tipos de caminhões. Além disso, o grupo precisa otimizar os custos totais, através do método de transporte, e comparar com os dados de 2023, identificando se o resultado foi positivo. 
+O nosso parceiro acadêmico solicitou a equipe que identificasse a produtividade dos veículos de cada rota de uma empresa embarcadora de carga do ano de 2023, levando em consideração que ela trabalha com um limite de 2 tipos de caminhões. Além disso, o grupo precisa otimizar os custos totais, através do método de transporte, e comparar com os dados de 2023, identificando se o resultado dessa empresa foi positivo. 
 O método de transporte é uma técnica de programação linear utilizada para otimizar a distribuição de recursos de uma fonte para múltiplos destinos, minimizando os custos totais de transportes.
 
 # Equipe
