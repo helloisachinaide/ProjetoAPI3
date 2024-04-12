@@ -83,7 +83,7 @@ Requisitos não funcionais
   
 <div align="center">
     
-![product backlog](https://user-images.githubusercontent.com/69374340/172057734-320d9e43-19e9-409a-8f2d-7d159a1aaa9a.png)
+![product backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/b9bbbc88181b6259a671cf7227126e0d8a30af67/backlog%20do%20produto.jpeg)
 ![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
 </div>
 
