@@ -84,7 +84,7 @@ Requisitos não funcionais
 <div align="center">
     
 ![product backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/637001be185675975d08d53311fe5c68c3abb718/backlog%20do%20produto.jpeg)
-![sprint 1 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/58f21720786bc65e256236688d2a593608e3a89b/sprint%201.jpeg)
+![sprint 1 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/f234a8721d9241a2597e790b80ad7f43ea0cb808/sprint%201.jpeg)
 </div>
 
 
