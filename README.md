@@ -12,7 +12,7 @@ Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Sprints](#Sprints)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [MPV do produto](#MPV-do-produto)
 
 
 # Projeto (API) 
