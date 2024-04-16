@@ -93,7 +93,7 @@ Requisitos não funcionais
 
 
 
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# MVP do produto
 
 Apresentação das funcionalidades dos dashboards: 
 
