@@ -87,7 +87,7 @@ Requisitos não funcionais
 
 ![sprint 1 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/f234a8721d9241a2597e790b80ad7f43ea0cb808/sprint%201.jpeg)
 
-![sprint 2 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/1e7a56ff2d83b279d4835f9dcc7801d72d529ced/sprint%202.jpg) 
+![sprint 2 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/68691befa1a367c049536c2453052bff259d14b0/sprint%202.jpg) 
 
 ![sprint 3 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/5f4655d5e00ffcf2901462fd618d1bbbf8d9f6f8/sprint%203.jpg) 
 
