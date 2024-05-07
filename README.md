@@ -85,16 +85,10 @@ Requisitos não funcionais
     
 ![product backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/637001be185675975d08d53311fe5c68c3abb718/backlog%20do%20produto.jpeg)
 
-![sprint 1 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/f234a8721d9241a2597e790b80ad7f43ea0cb808/sprint%201.jpeg)
-
-![sprint 2 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/68691befa1a367c049536c2453052bff259d14b0/sprint%202.jpg) 
-
-![sprint 3 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/5f4655d5e00ffcf2901462fd618d1bbbf8d9f6f8/sprint%203.jpg) 
-
-![sprint 4 backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/d508a6c1c4c0fe2456a061c6a0f61b87370383ee/sprint%204.jpg) 
+![sprints ](https://github.com/helloisachinaide/ProjetoAPI3/blob/27ac254708238ac64e5e7904510890bbc221f74f/technolog%20(4).jpg) 
 
 
-</div>)
+</div>
 
 </div>
 </div>
