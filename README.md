@@ -100,6 +100,10 @@ Requisitos não funcionais
 
 ![sprint backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/50981ed1483263f4d2a47760cda673e8943bfb0e/burndown.1.jfif)
 
+- SPRINT 2
+
+![sprint backlog](https://github.com/helloisachinaide/ProjetoAPI3/blob/88383d0f94e2b4f35c9566e5cdb13ca6d2797987/burndown2.jfif)
+
 
 
 # MVP do produto
