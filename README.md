@@ -108,6 +108,8 @@ Apresentação das funcionalidades dos dashboards:
 
 # Dashboard
 
+https://app.powerbi.com/links/AblElpkl8g?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
+
 
 
 
