@@ -109,7 +109,7 @@ Requisitos não funcionais
 # MVP do produto
 Apresentação das funcionalidades dos dashboards: 
 
-![image] (projeto3sem.gif)
+![image](https://github.com/helloisachinaide/ProjetoAPI3/blob/f77ccf89a2938c27cb3ebead319491972112e590/projeto3sem.gif)
 
 # Dashboard
 
