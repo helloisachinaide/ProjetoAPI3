@@ -115,7 +115,7 @@ Apresentação das funcionalidades dos dashboards:
 
 Clique aqui para analisar o nosso desenvolvimento do dashboard:
 
-<a href="https://app.powerbi.com/links/mF6uAvhSJP?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
+<a href="https://app.powerbi.com/links/Kik10OvjNu?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
 
 
 
