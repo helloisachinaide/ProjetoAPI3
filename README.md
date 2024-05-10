@@ -109,7 +109,7 @@ Requisitos não funcionais
 # MVP do produto
 Apresentação das funcionalidades dos dashboards: 
 
-https://github.com/helloisachinaide/ProjetoAPI3/blob/9e8c8501615e2a097107ec388a5b5fe11707d872/ezgif.com-gif-to-mp4-converter.mp4
+![image] (projeto3sem.gif)
 
 # Dashboard
 
