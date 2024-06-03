@@ -13,7 +13,8 @@ Nós, alunos do 3º semestre do curso de Logística da Fatec, desenvolvemos este
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 * [MVP do produto](#mvp-do-produto)
-* [Dashboard](#dashboard) 
+* [Dashboard](#dashboard)
+* [Método de transportes] (#Método-de-transportes) 
 
 # Projeto (API) 
 O nosso parceiro acadêmico solicitou a equipe que identificasse a produtividade dos veículos de cada rota de uma empresa embarcadora de carga, levando em consideração que ela trabalha com um limite de 2 tipos de caminhões. Além disso, o grupo precisa otimizar os custos totais do ano de 2023, através do método de transporte, e compará-los com dados reais do mesmo ano, identificando se o resultado dessa empresa foi positivo ou negativo.
@@ -119,6 +120,7 @@ Clique aqui para analisar o nosso desenvolvimento do dashboard:
 
 <a href="https://app.powerbi.com/links/Kik10OvjNu?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
 
+# Método de transportes 
 
 
 
