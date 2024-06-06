@@ -129,3 +129,5 @@ Clique aqui para analisar o nosso desenvolvimento do dashboard:
 Clique aqui para acessar o código:
 
 <a href="https://colab.research.google.com/drive/189SO7cWziY5hnV6K1W5f-04zCCzJsCIa#scrollTo=Zw4VtqcEKH9l"> Otimização 2023  </a>
+
+<a href="https://github.com/helloisachinaide/ProjetoAPI3/blob/869867265196d36fa6ae702d055f08de9d616d63/otimiza%C3%A7ao_2024.ipynb"> Otimização 2024  </a>
