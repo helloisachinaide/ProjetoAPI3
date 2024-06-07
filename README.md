@@ -118,6 +118,8 @@ Apresentação das funcionalidades dos dashboards:
 
 ![image](https://github.com/helloisachinaide/ProjetoAPI3/blob/f77ccf89a2938c27cb3ebead319491972112e590/projeto3sem.gif)
 
+![image](
+
 # Dashboard
 
 Clique aqui para analisar o nosso desenvolvimento do dashboard:
