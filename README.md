@@ -124,7 +124,7 @@ Apresentação das funcionalidades dos dashboards:
 
 Clique aqui para analisar o nosso desenvolvimento do dashboard:
 
-<a href="https://app.powerbi.com/links/Kik10OvjNu?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
+<a href="https://app.powerbi.com/groups/92d1726c-da66-4c56-b05a-3b56bd8bfb9a/reports/060ec97e-5667-42c5-bd0b-13c1cc1d407a?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare"> Power BI  </a>
 
 # Método de transportes 
 
