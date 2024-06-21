@@ -68,7 +68,7 @@ Sprint | Previsão | Status| Histórico|
 |02|  10/05/2024| concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/46389e039e3c8987254460a95131d1c3ce82c2bf/RELAT%C3%93RIO%202.pdf) | 
 |03|  07/06/2024 | concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/9f7c8c5eaeb4a7046b96210fa9a8fbdded046d47/RELAT%C3%93RIO%203.pdf) | 
 |04|  21/06/2024 | concluído |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/48d7eaec49e91dd9ee92720e098a15f446de91fa/RELAT%C3%93RIO%204.pdf)  | 
-|Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://github.com/helloisachinaide/ProjetoAPI3/blob/17aed8648660c88382e8edead8be521be1bb64a1/Feira_Solucoes.pptx) | 
 
 
 # Requisitos
