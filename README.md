@@ -29,6 +29,7 @@ O método de transporte é uma técnica de programação linear utilizada para o
 |  Team Member  | Matheus Belônia                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bel%C3%B4nia-paix%C3%A3o-4b817225a/) 
 |  Team Member  | Vinícius Tomé                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-stomé) 
 |  Team Member  | Luan Costa               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luan-costa-62a24822b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+|  Team Member  | Victor Teixeira               |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-teixeira-a698b62a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar a produtividade de veículos e otimizar custos de rotas de uma empresa embarcadora de carga, visando:
